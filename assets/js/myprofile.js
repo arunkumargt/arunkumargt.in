@@ -36,3 +36,4 @@ function downloadCV() {
     link.download = 'file.pdf';
     link.dispatchEvent(new MouseEvent('click'));
 }
+
